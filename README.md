@@ -12,6 +12,6 @@ float table(float a)
 {
     for( float b=1;b<=10;b++)
     {
-        printf("\t%f",b*a);
+       printf("\t%f",b*a);
     }
 }
